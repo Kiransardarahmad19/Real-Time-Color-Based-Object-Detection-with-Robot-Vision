@@ -4,7 +4,7 @@ This project implements a real-time color-based object detection system using Op
 
 This project leverages computer vision techniques to detect objects based on a specified color range in the HSV color space. The program identifies and tracks the centroid of the largest color-matching region within each frame. This could be useful for a variety of robotics tasks, such as following a color-coded object or identifying specific areas in a controlled environment.
 
-##Features
+#Features
 
 ### 1. Real-Time Color Detection
 Detects objects based on color from a live camera feed.
